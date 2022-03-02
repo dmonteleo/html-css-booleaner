@@ -1,9 +1,17 @@
+/* GENERAL */
+* {
+  margin: 0;
+  padding 0;
+  box-sizing: border-box;
+}
+
+/* HEADER */
 header {
+  height: 100px;
   background-color: #4ea0ff;
   background-image: url("../img/pattern.png");
   background-size: 400px;
   background-position-x: 29%;
-  height: 100px;
 }
 
 #logo {
@@ -11,3 +19,7 @@ header {
   margin-top: 40px;
   margin-left: 10px;
 }
+
+/* MAIN */
+
+/* FOOTER */
