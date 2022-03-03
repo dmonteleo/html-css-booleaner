@@ -78,3 +78,31 @@ main table .text {
 }
 
 /* FOOTER */
+footer p {
+  color: #828282;
+  size-font: medium;
+}
+
+.image-box {
+  width: 250px;
+  height: 200px;
+  background-color: red;
+  margin: 10px 0;
+  padding: 15px;
+  background-position: center;
+  background-size: cover;
+}
+
+footer div p {
+  color: white;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+#img1 {
+  background-image: url('../img/monitor.jpg');
+}
+
+#img2 {
+  background-image: url('/assets/img/graph.jpg')
+}
