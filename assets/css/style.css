@@ -77,6 +77,10 @@ main table .text {
   width: 50%;
 }
 
+tbody td {
+  padding: 10px 10px 10px 0;
+}
+
 /* FOOTER */
 footer p {
   color: #828282;
